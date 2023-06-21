@@ -12,3 +12,6 @@ The program displays the following weather information:
 
 ## Technical details
 The program uses the fetch API to fetch weather data using a GET request to the OpenWeatherMap API. The received data are processed and displayed on the page using JavaScript.
+
+## Author
+Artem Blinov
