@@ -15,3 +15,6 @@
 
 ## Автор
 Блинов Артём
+
+![image](https://github.com/blinovartem04/Weather-forecast/assets/101421711/9676b23f-9a36-4bf6-9a61-388cad58af56)
+
