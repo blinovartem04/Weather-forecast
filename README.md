@@ -1,6 +1,9 @@
 ## Weather-forecast
 This is a simple example of creating a JavaScript weather forecast using the OpenWeatherMap API service.
 
+![image](https://github.com/blinovartem04/Weather-forecast/assets/101421711/885d7887-f1a5-444c-b4a7-f0000d353922)
+
+
 ## How it works
 The program receives data about the weather using the OpenWeatherMap API and displays them on the page in a user-friendly form. The data is updated automatically every 10 minutes.
 
